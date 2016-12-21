@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/javacpp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/javacv-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/opencv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/opencv-linux-armhf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/opencv-linux-ppc64le.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/opencv-linux-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/opencv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/opencv-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/opencv-windows-x86.jar"/>
+	<classpathentry kind="lib" path="C:/Users/김성래/Desktop/새 폴더 (3)/새 폴더/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
